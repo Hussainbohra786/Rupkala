@@ -118,7 +118,7 @@ data/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rupkala.git
+git clone https://github.com/Hussainbohra786/rupkala.git
 ```
 
 Move into the project
