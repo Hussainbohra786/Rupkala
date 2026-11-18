@@ -169,13 +169,15 @@ npm run dev
 
 Add screenshots here:
 
-- Home Page
-- Customer Store
-- Artisan Dashboard
-- Admin Dashboard
-- AI Product Upload
-- Analytics
-- CRM Dashboard
+- Home Page  : <img width="1181" height="897" alt="Screenshot 2026-11-18 130641" src="https://github.com/user-attachments/assets/d87b23cd-06f4-45dc-a10a-25ec5ba27f4e" />
+
+- Customer Store :<img width="644" height="830" alt="Screenshot 2026-11-18 130754" src="https://github.com/user-attachments/assets/3fedf58a-2e3e-4a63-937d-2f606d2af976" />
+
+- Artisan Dashboard : <img width="1296" height="891" alt="Screenshot 2026-11-18 130925" src="https://github.com/user-attachments/assets/03d52911-e86f-4ff9-97ae-a13900b999ca" />
+
+- Admin Dashboard : <img width="1047" height="785" alt="Screenshot 2026-11-18 130944" src="https://github.com/user-attachments/assets/d9918b8d-0c67-4418-8319-6e9b6f04c650" />
+
+- AI Product Upload : <img width="504" height="876" alt="Screenshot 2026-11-18 131448" src="https://github.com/user-attachments/assets/52795f22-31f9-4e92-943d-84620ac15a78" />
 
 ---
 
@@ -197,4 +199,4 @@ This project is developed for educational and innovation purposes.
 
 B.Tech Computer Science Engineering
 
-AI • Full Stack Development • Digital Innovation
+Artificial Intelligence • Machine Learning • Software Development
